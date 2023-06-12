@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-posts/static/css/main.5f36bc9d.css",
+    "main.js": "/react-posts/static/js/main.c8cd08ac.js",
+    "static/media/foto.jpg": "/react-posts/static/media/foto.e6ff5ec6a8f41c4261f8.jpg",
+    "index.html": "/react-posts/index.html",
+    "main.5f36bc9d.css.map": "/react-posts/static/css/main.5f36bc9d.css.map",
+    "main.c8cd08ac.js.map": "/react-posts/static/js/main.c8cd08ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f36bc9d.css",
+    "static/js/main.c8cd08ac.js"
+  ]
+}
