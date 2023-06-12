@@ -4,7 +4,7 @@
     "name": "Petrosian Nikita"
   },
   "license": "Mozilla Public License 2.0",
-  "repository": "https://github.com/nikitapetrosian/react-posts.git",
+  "repository": "https://github.com/nikitapetrosian/react-posts",
   "homepage": "https://nikitapetrosian.github.io/react-posts/#",
   "main": "src/index.jsx",
   "private": true,
