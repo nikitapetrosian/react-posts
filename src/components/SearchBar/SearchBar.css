@@ -1,0 +1,14 @@
+.search-bar__input-wrapper {
+  position: relative;
+}
+
+.search-bar__input {
+  padding-right: 55px;
+}
+
+.search-bar__reset-button {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+}
